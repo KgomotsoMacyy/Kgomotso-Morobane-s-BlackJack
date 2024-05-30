@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: black;
+    background-size: cover;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    color: orange;
+}
+
+#message-el {
+    font-style: bold;
+}
+
+button {
+    color: black;
+    width: 200px;
+    background: orange;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    border: none;
+    border-radius: 10px;
+    margin-top: 3px; 
+    margin-bottom: 3px;
+}
+
